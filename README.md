@@ -2,7 +2,7 @@
 
 This is a quick little ask-me-anything type of repository. It is forked from [@holman](https://github.com/holman/feedback) and [@mdo's](https://github.com/mdo/feedback) feedback repos and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
-I often write and give talks about [open source + government](http://ben.balter.com) because I'm passiionate about the disruptive potential for technology to reimagine the way our government works. If you have any questions about open government, or just question in general, send 'em my way. Always more than glad to geek out.
+I often write and give talks about [open source + government](http://ben.balter.com) because I'm passiionate about the disruptive potential for technology to reimagine the way our government works. If you have any questions about open government, or just questions in general, send 'em my way. Always more than glad to geek out.
 
 *If you have any technical problems with Git or GitHub, you're still better off if you [ask GitHub Support directly](https://github.com/contact), since you'll end up getting a much faster (and smarter) response back that way.*
 
