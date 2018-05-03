@@ -1,0 +1,8 @@
+# Behaviorbot config. See https://github.com/behaviorbot/ for more information.
+
+# Configuration for request-info - https://github.com/behaviorbot/request-info
+requestInfoReplyComment: Thanks for this. Do you mind providing a bit more information about what problem you're trying to solve?
+requestInfoLabelToAdd: more-information-needed
+
+# Bug workaround
+contact_links: []

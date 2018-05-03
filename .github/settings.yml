@@ -1,0 +1,11 @@
+# Repository settings set via https://github.com/probot/settings
+
+repository:
+  has_issues: true
+  has_wiki: false
+  has_projects: false
+  has_downloads: false
+
+labels:
+  - name: more-information-needed
+    color: d93f0b
